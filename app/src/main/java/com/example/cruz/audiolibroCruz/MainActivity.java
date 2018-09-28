@@ -1,4 +1,4 @@
-package com.example.fernando.tareapractica1;
+package com.example.cruz.audiolibroCruz;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -14,9 +14,6 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -24,8 +21,8 @@ import android.view.View;
 import android.widget.Toast;
 import android.support.design.widget.FloatingActionButton;
 
-import com.example.fernando.tareapractica1.fragments.DetalleFragment;
-import com.example.fernando.tareapractica1.fragments.SelectorFragment;
+import com.example.cruz.audiolibroCruz.fragments.DetalleFragment;
+import com.example.cruz.audiolibroCruz.fragments.SelectorFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

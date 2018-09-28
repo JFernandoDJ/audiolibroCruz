@@ -1,4 +1,4 @@
-package com.example.fernando.tareapractica1.fragments;
+package com.example.cruz.audiolibroCruz.fragments;
 
 /*import android.app.Activity;
 import android.content.Context;
@@ -21,14 +21,12 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
-import com.example.fernando.tareapractica1.AdaptadorLibros;
-import com.example.fernando.tareapractica1.AdaptadorLibrosFiltro;
-import com.example.fernando.tareapractica1.Aplicacion;
-import com.example.fernando.tareapractica1.Libro;
-import com.example.fernando.tareapractica1.MainActivity;
-import com.example.fernando.tareapractica1.R;
+import com.example.cruz.audiolibroCruz.AdaptadorLibrosFiltro;
+import com.example.cruz.audiolibroCruz.Aplicacion;
+import com.example.cruz.audiolibroCruz.Libro;
+import com.example.cruz.audiolibroCruz.MainActivity;
+import com.example.cruz.audiolibroCruz.R;
 
 import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package com.example.fernando.tareapractica1.fragments;
+package com.example.cruz.audiolibroCruz.fragments;
 
 import android.media.MediaPlayer;
 import android.net.Uri;
@@ -13,10 +13,10 @@ import android.widget.ImageView;
 import android.widget.MediaController;
 import android.widget.TextView;
 
-import com.example.fernando.tareapractica1.Aplicacion;
-import com.example.fernando.tareapractica1.Libro;
-import com.example.fernando.tareapractica1.MainActivity;
-import com.example.fernando.tareapractica1.R;
+import com.example.cruz.audiolibroCruz.Aplicacion;
+import com.example.cruz.audiolibroCruz.Libro;
+import com.example.cruz.audiolibroCruz.MainActivity;
+import com.example.cruz.audiolibroCruz.R;
 
 import java.io.IOException;
 

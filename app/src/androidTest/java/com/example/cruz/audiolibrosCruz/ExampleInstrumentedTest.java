@@ -1,4 +1,4 @@
-package com.example.fernando.tareapractica1;
+package com.example.cruz.audiolibrosCruz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.fernando.tareapractica1", appContext.getPackageName());
+        assertEquals("com.example.cruz.tareapractica1", appContext.getPackageName());
     }
 }
