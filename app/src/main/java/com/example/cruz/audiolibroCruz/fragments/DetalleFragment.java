@@ -35,7 +35,7 @@ public class DetalleFragment extends Fragment implements View.OnTouchListener, M
         }
         return vista;
 
-        //hoal
+        //hoalo
     }
     private void ponInfoLibro(int id, View vista) {
         Libro libro = ((Aplicacion) getActivity().getApplication())
